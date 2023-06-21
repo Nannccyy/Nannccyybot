@@ -1,4 +1,4 @@
-#原作者：yqloss
+#原作者：外口老四
 import socket
 import threading
 import json
